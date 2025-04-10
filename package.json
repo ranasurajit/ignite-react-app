@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A lightweight CLI tool to instantly scaffold a React.js project with Webpack, Babel, and modern tooling — all from scratch.",
   "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ignite-react-app": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -33,5 +37,10 @@
     "cli",
     "dev-tool"
   ],
-  "homepage": "https://github.com/ranasurajit/ignite-react-app#readme"
+  "homepage": "https://github.com/ranasurajit/ignite-react-app#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "execa": "^9.5.2",
+    "fs-extra": "^11.3.0"
+  }
 }
