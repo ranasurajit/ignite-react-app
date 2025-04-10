@@ -1,0 +1,37 @@
+{
+  "name": "ignite-react-app",
+  "version": "1.0.0",
+  "description": "A lightweight CLI tool to instantly scaffold a React.js project with Webpack, Babel, and modern tooling — all from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranasurajit/ignite-react-app.git"
+  },
+  "author": "ranasurajit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranasurajit/ignite-react-app/issues"
+  },
+  "keywords": [
+    "react",
+    "react-cli",
+    "webpack",
+    "babel",
+    "react-boilerplate",
+    "webpack-react",
+    "create-react-app alternative",
+    "react-starter",
+    "react-generator",
+    "react-template",
+    "javascript",
+    "frontend",
+    "scaffolding",
+    "starter-kit",
+    "cli",
+    "dev-tool"
+  ],
+  "homepage": "https://github.com/ranasurajit/ignite-react-app#readme"
+}
